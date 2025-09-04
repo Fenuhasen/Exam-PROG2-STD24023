@@ -9,4 +9,8 @@ public class Tuteur extends Personne{
         super(id, nom, prenom, dateDeNaissance, email, telephone);
         this.descriptionLien = descriptionLien;
     }
+
+    public String getDescriptionLien() {
+        return descriptionLien;
+    }
 }

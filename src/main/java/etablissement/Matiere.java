@@ -12,4 +12,20 @@ public class Matiere {
         this.credit = credit;
         this.enseignant = enseignant;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getLabel() {
+        return label;
+    }
+
+    public int getCredit() {
+        return credit;
+    }
+
+    public Enseignant getEnseignant() {
+        return enseignant;
+    }
 }

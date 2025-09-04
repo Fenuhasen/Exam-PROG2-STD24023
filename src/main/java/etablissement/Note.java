@@ -12,4 +12,18 @@ public class Note {
         this.valeurInitiale = valeurInitiale;
         this.noteChangement = noteChangement;
     }
+
+    public Etudiant getEtudiant() {
+        return etudiant;
+    }
+
+    public float getValeurInitiale() {
+        return valeurInitiale;
+    }
+
+    public List<NoteChangement> getNoteChangement() {
+        return noteChangement;
+    }
+
+
 }

@@ -11,4 +11,12 @@ public class Etudiant extends Personne{
         this.groupe = groupe;
         this.tuteur = tuteur;
     }
+
+    public String getGroupe() {
+        return groupe;
+    }
+
+    public Tuteur getTuteur() {
+        return tuteur;
+    }
 }

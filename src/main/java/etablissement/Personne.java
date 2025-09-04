@@ -18,4 +18,28 @@ public class Personne {
         this.email = email;
         this.telephone = telephone;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public String getPrenom() {
+        return prenom;
+    }
+
+    public Instant getDateDeNaissance() {
+        return dateDeNaissance;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getTelephone() {
+        return telephone;
+    }
 }

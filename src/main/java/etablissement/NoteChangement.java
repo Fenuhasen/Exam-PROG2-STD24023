@@ -12,4 +12,16 @@ public class NoteChangement {
         this.dateDeChangement = dateDeChangement;
         this.description = description;
     }
+
+    public int getValeur() {
+        return valeur;
+    }
+
+    public Instant getDateDeChangement() {
+        return dateDeChangement;
+    }
+
+    public String getDescription() {
+        return description;
+    }
 }

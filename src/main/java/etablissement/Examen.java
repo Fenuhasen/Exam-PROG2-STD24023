@@ -16,4 +16,24 @@ public class Examen {
         this.dateDExamen = dateDExamen;
         this.coefficient = coefficient;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getTitre() {
+        return titre;
+    }
+
+    public Matiere getMatiere() {
+        return matiere;
+    }
+
+    public Instant getDateDExamen() {
+        return dateDExamen;
+    }
+
+    public int getCoefficient() {
+        return coefficient;
+    }
 }

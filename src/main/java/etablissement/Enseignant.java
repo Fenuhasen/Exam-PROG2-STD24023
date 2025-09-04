@@ -9,4 +9,8 @@ public class Enseignant extends Personne {
         super(id, nom, prenom, dateDeNaissance, email, telephone);
         this.specialite = specialite;
     }
+
+    public String getSpecialite() {
+        return specialite;
+    }
 }

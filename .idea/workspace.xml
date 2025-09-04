@@ -6,6 +6,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Enseignant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Enseignant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Etudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Etudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Examen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Matiere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Matiere.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Note.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Personne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/etablissement/Tuteur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/etablissement/Tuteur.java" afterDir="false" />
@@ -60,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756959928670</updated>
-      <workItem from="1756959941617" duration="3335000" />
+      <workItem from="1756959941617" duration="3663000" />
     </task>
     <servers />
   </component>
@@ -68,10 +70,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="179" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1756964116190">
+    <state x="179" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1756964468040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="179" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1756964116190" />
+    <state x="179" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1756964468040" />
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1756962622127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
